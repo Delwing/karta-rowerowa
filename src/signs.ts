@@ -274,7 +274,7 @@ export const SIGNS: Sign[] = [
   { code: 'T-19', name: 'Tabliczka — malowanie znaków poziomych', description: 'Informuje o prowadzonych pracach malowania znaków poziomych na jezdni.', category: 'tabliczki', img: img('T-19') },
   { code: 'T-20', name: 'Tabliczka wskazująca długość odcinka z zakazem', description: 'Podaje długość odcinka, na którym obowiązuje zakaz.', category: 'tabliczki', img: img('T-20') },
   { code: 'T-21', name: 'Tabliczka wskazująca odległość do początku zakazu', description: 'Podaje odległość do miejsca, w którym zaczyna obowiązywać zakaz.', category: 'tabliczki', img: img('T-21') },
-  { code: 'T-22', name: 'Tabliczka z nazwą miejscowości', description: 'Podaje nazwę miejscowości, w której obowiązuje dany zakaz lub nakaz.', category: 'tabliczki', img: img('T-22') },
+  { code: 'T-22', name: 'Tabliczka — nie dotyczy rowerów jednośladowych', description: 'Wskazuje, że znak, pod którym jest umieszczona, nie dotyczy rowerów jednośladowych.', category: 'tabliczki', img: img('T-22') },
   { code: 'T-25a', name: 'Tabliczka — początek zakazu', description: 'Strzałka skierowana do przodu — oznacza początek odcinka z zakazem.', category: 'tabliczki', img: img('T-25a') },
   { code: 'T-25b', name: 'Tabliczka — kontynuacja zakazu', description: 'Strzałki w obie strony — oznaczają kontynuację obowiązywania zakazu.', category: 'tabliczki', img: img('T-25b') },
   { code: 'T-25c', name: 'Tabliczka — koniec zakazu', description: 'Strzałka skierowana do tyłu — oznacza koniec odcinka z zakazem.', category: 'tabliczki', img: img('T-25c') },
